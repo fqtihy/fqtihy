@@ -16,14 +16,17 @@ Learning, building, and improving with AI.
 
 ## About Me
 
-I am a first-year Robotics and Artificial Intelligence student at Ankara Medipol University, developing a practical foundation in AI and robotics. I use AI-assisted development and AI-supported problem solving to learn more effectively, understand technical topics, and turn ideas into working solutions.
+I am a first-year Robotics and Artificial Intelligence student at Ankara Medipol University, building a practical foundation in AI and robotics. I use AI-assisted development to learn effectively, understand technical topics, and turn ideas into working solutions.
 
 ## Focus Areas
 
 - Artificial intelligence and robotics
+- Practical AI learning and problem solving
 - AI-assisted development
-- AI-supported problem solving
-- Building a strong foundation with practical learning
+
+## Featured Projects
+
+Projects will be added as they are completed.
 
 ## Skills
 
