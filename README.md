@@ -4,7 +4,7 @@
 
 ### Robotics & Artificial Intelligence Student
 
-Building a strong foundation in AI while learning how to use technology with maximum efficiency.
+Learning, building, and improving with AI.
 
 </div>
 
@@ -16,18 +16,18 @@ Building a strong foundation in AI while learning how to use technology with max
 
 ## About Me
 
-I am a first-year Robotics and Artificial Intelligence student at Ankara Medipol University. I am continuously developing my skills in AI and exploring practical ways to work more effectively with technology.
-
-I am also experienced in **vibecoding** and focused on using AI as efficiently as possible throughout my learning and development process.
+I am a first-year Robotics and Artificial Intelligence student at Ankara Medipol University, developing a practical foundation in AI and robotics. I use AI-assisted development and AI-supported problem solving to learn more effectively, understand technical topics, and turn ideas into working solutions.
 
 ## Focus Areas
 
-- Artificial intelligence learning and development
-- Robotics and AI education
-- Vibecoding
-- Efficient and effective use of AI
+- Artificial intelligence and robotics
+- AI-assisted development
+- AI-supported problem solving
+- Building a strong foundation with practical learning
 
-## Technologies
+## Skills
+
+I have foundational knowledge of:
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -41,4 +41,3 @@ I am also experienced in **vibecoding** and focused on using AI as efficiently a
 The best way to reach me is by email:
 
 **[fatihyildiztepe128@gmail.com](mailto:fatihyildiztepe128@gmail.com)**
-
