@@ -1,3 +1,7 @@
+<p align="right">
+  🇬🇧 <strong>English</strong> | <a href="README-tr.md">🇹🇷 Türkçe</a>
+</p>
+
 <div align="center">
 
 # Fatih YILDIZTEPE
